@@ -1,2 +1,3 @@
 # Fundamentals-of-Visualization-with-Tableau
-Data Visualization with Tableau Specialization
+
+Data Visualization or Data Viz => is how we communicate numerical or quantitative information in a visual manner

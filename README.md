@@ -16,6 +16,7 @@ a Dashboard is required for that.
 if you want to create graphs with different colors, then simply drag the item from the
 Tables section to the detail option and it will create colored, differentiated graphs!!!
 
+*** A grain of data = A row of data
 
 ```
 ## Visualizations on Tableau Public

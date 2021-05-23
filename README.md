@@ -17,8 +17,10 @@ if you want to create graphs with different colors, then simply drag the item fr
 Tables section to the detail option and it will create colored, differentiated graphs!!!
 
 *** A grain of data = A row of data
-
 ```
 ## Visualizations on Tableau Public
 #### London Bus Safety, January 2015 to September 2018
-https://public.tableau.com/profile/nasim.alahi#!/vizhome/DataVisualizationwithTableau_16216255911320/Dashboard1?publish=yes
+https://public.tableau.com/profile/nasim.alahi#!/vizhome/DataVisualizationwithTableau_16216255911320/Dashboard1
+
+#### States Fiscal Ranking Visualization, 2006 to 2016
+https://public.tableau.com/profile/nasim.alahi#!/vizhome/StatesFiscalRankingVisualization/Dashboard1
